@@ -86,7 +86,9 @@ Download and unzip the linkset.
 •	Copy the Ensembl IDs of the 756 genes.
 
 <br />
+
 **Step 2: Create PPI network for gene selection**
+
 <br />
 
 •	In Cytoscape, go to the Control Panel and select the STRING protein query (drop-down box left to search field) and paste the 756 gene names in the query field 
