@@ -14,7 +14,7 @@ Do the same for “stringApp”.
 <br />
 <br />
 
-![Figure 1](Figures/Net_1.png)
+![Figure 1](../Figures/Net_1.png)
 
 <br />
 <br />
@@ -30,7 +30,7 @@ Now we can begin by importing the cytokine and inflammatory response pathway as 
 <br />
 <br />
 
-![Figure 2](Figures/Net_2.png)
+![Figure 2](../Figures/Net_2.png)
 
 <br />
 <br />
@@ -50,7 +50,7 @@ Download and unzip the linkset.
 <br />
 <br />
 
-![Figure 3](Figures/Net_3.png)
+![Figure 3](../Figures/Net_3.png)
 
 <br />
 <br />
@@ -60,7 +60,7 @@ Download and unzip the linkset.
 <br />
 <br />
 
-![Figure 4](Figures/Net_4.png)
+![Figure 4](../Figures/Net_4.png)
 
 <br />
 <br />
@@ -139,7 +139,7 @@ You can begin with representing the degree of a node with "Fill Color". Scroll t
 <br />
 <br />
 
-![Figure 6](Figures/Net_6.png)
+![Figure 6](../Figures/Net_6.png)
 
 <br />
 <br />
@@ -149,7 +149,7 @@ You can also visualize the Betweenness Centrality of nodes by changing the size.
 <br />
 <br />
 
-![Figure 7](Figures/Net_7.png)
+![Figure 7](../Figures/Net_7.png)
 
 <br />
 <br />
