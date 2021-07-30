@@ -72,7 +72,7 @@ Download and unzip the linkset.
 > **Question 1.3**: Are there any genes that are targeted by many drugs?
 
 <br />
-**You can also try this step with microRNAs by choosing the [linkset you wish to use](https://cytargetlinker.github.io/pages/linksets.html). If you have data for microRNAs, you can also visualize it on these nodes.** 
+**You can also try this step with microRNAs by choosing the** [linkset you wish to use](https://cytargetlinker.github.io/pages/linksets.html). **If you have data for microRNAs, you can also visualize it on these nodes.** 
 
 ### Task 2: Build network for up-regulated inflammatory bowel disease genes
 
@@ -94,7 +94,7 @@ Download and unzip the linkset.
 <br />
 <br />
 
-![Figure 5](Figures/Net_5.png)
+![Figure 5](../Figures/Net_5.png)
 
 <br />
 <br />
