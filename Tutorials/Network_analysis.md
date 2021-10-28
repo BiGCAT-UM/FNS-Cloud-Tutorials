@@ -1,7 +1,7 @@
 # Network Analysis
 ## Using network analysis to study the molecular and regulatory mechanisms involved in inflammatory bowel syndrome
 
-Practical prepared by: Dr. Martina Summer-Kutmon and Dr. Lauren Dupuis
+Practical prepared by: Dr. Martina Summer-Kutmon, Dr. Lauren Dupuis and Dr. Duygu Dede Sener
 <br />
 In this tutorial, we want to show you different ways you can build a biological network relevant for a biological research topic. 
 
