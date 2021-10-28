@@ -1,6 +1,6 @@
 # Pathway Analysis Practical
 
-Practical prepared by Dr. Martina Summer-Kutmon and Dr. Lauren J. Dupuis
+Practical prepared by Dr. Martina Summer-Kutmon, Dr. Lauren J. Dupuis and Dr. Duygu Dede Sener
 -----------------------------------------------------------------------------------------------------------------------------------------
 Pathway analysis helps you to interpret the data in a biologically meaningful context. We will use the data from the Inflammatory Bowel Disease Multi Omics [Database](https://ibdmdb.org/). You will need the WikiPathways human pathways collection that you can download [here](http://www.wikipathways.org/wpi/batchDownload.php?species=Homo%20sapiens&fileType=gpml&tag=Curation:AnalysisCollection) as a zip file. You will need to unzip it before use. You will also need the BridgeDb identifier mapping file for humans which you can download [here](https://bridgedb.github.io/data/gene_database/).
 For this task, you will need the data file table_CD_Ileum_vs_nonIBD_Ileum_host_transcriptomics_metabolomics.txt
